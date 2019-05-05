@@ -4,3 +4,6 @@
 [submodule "order-service-api"]
 	path = order-service-api
 	url = https://github.com/wsmhz/order-service-api.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/wsmhz/order-service.git
