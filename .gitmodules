@@ -1,3 +1,6 @@
 [submodule "product-service-api"]
 	path = product-service-api
 	url = https://github.com/wsmhz/product-service-api.git
+[submodule "order-service-api"]
+	path = order-service-api
+	url = https://github.com/wsmhz/order-service-api.git
